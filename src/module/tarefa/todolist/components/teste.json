@@ -1,0 +1,17 @@
+{
+    "retorno": [
+        {
+            "estatus": "Erro",
+            "msgErro": "3 - Empregado: 9913504 não cadastrado !"
+        }
+    ]
+}
+
+{
+    "logErroApp": [
+        {
+            "id": 1,
+            "erro": "Programa\/Metódo não encontrado 'admin\/movimentovariavel2.p' !"
+        }
+    ]
+}
